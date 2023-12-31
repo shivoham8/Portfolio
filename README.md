@@ -44,13 +44,13 @@ I am a passionate web developer with a keen eye for design and a knack for probl
 ## Projects
 
 ### [The Simon Game](https://shivoham8.github.io/The-Simon-Game/)
-![The Simon Game](./assets/project-1.png)
+<img src="./assets/project-1.png" height=200 width=200>
 
 ### [The Dice Game](https://shivoham8.github.io/The-Dice-Game/)
-![The Dice Game](./assets/project-2.png)
+<img src="./assets/project-2.png" height=200 width=200>
 
 ### [Tindog](https://shivoham8.github.io/Tindog/)
-![Tindog](./assets/project-3.jpg)
+<img src="./assets/project-3.jpg" height=200 width=200>
 
 ## Contact Me
 
