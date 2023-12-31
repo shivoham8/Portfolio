@@ -11,7 +11,7 @@ Welcome to my digital space! This portfolio showcases my journey, skills, and pr
 
 ## About Me
 
-<img src="https://portfolio-ajay-gupta.netlify.app" height=200 width=200>
+<img src="./assets/profile-pic.jpg" height=200 width=200>
 
 ### Hello, I'm Ajay Gupta
 I am a passionate web developer with a keen eye for design and a knack for problem-solving. Currently pursuing B.Tech at NIT Hamirpur, I have over 2 years of experience in web development. My journey started with C/C++ and has evolved to include expertise in HTML, CSS, JavaScript, Bootstrap, and backend technologies like Node.js and Express.js.
