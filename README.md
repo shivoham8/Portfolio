@@ -41,7 +41,7 @@ I am a passionate web developer with a keen eye for design and a knack for probl
 - **Node.js:** Intermediate
 - **Express.js:** Intermediate
 
-## Projects
+## Recent Projects
 
 ### [Image Gallery](https://shivoham8.github.io/Image-Slider-Showcase/)
 <img src="./assets/project-1.png" height=200 width=200>
