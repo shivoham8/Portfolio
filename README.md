@@ -43,13 +43,13 @@ I am a passionate web developer with a keen eye for design and a knack for probl
 
 ## Projects
 
-### [The Simon Game](https://shivoham8.github.io/The-Simon-Game/)
+### [Image Gallery](https://shivoham8.github.io/Image-Slider-Showcase/)
 <img src="./assets/project-1.png" height=200 width=200>
 
-### [The Dice Game](https://shivoham8.github.io/The-Dice-Game/)
+### [To-Do Lisr](https://to-do-list-nked.onrender.com)
 <img src="./assets/project-2.png" height=200 width=200>
 
-### [Tindog](https://shivoham8.github.io/Tindog/)
+### [Weather Application](https://weather-application-bttu.onrender.com)
 <img src="./assets/project-3.jpg" height=200 width=200>
 
 ## Contact Me
