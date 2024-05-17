@@ -22,7 +22,7 @@ I am a passionate web developer with a keen eye for design and a knack for probl
 - **Education:** B.Tech, NIT Hamirpur
 
 ### Connect with Me
-- [Download CV](https://drive.google.com/file/d/1BuN5nYrH8fJtStDheL4boSH2wloywRfK/view?usp=sharing)
+- [Download CV](https://drive.google.com/file/d/1UiGcOupavIiN1Uv58JeHqsVQh3qCEyXC/view?usp=sharing)
 - [Contact Info](#contact)
 - [LinkedIn](https://www.linkedin.com/in/ajay-gupta-304962208/)
 - [GitHub](https://github.com/shivoham8)
